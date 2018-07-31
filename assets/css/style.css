@@ -1,0 +1,60 @@
+body {
+    background: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.header {
+    display: block;
+    text-align: center;
+    font-size: 35px;
+}
+
+.instructions {
+    display: block;
+    text-align: center;
+    background: lightgray;
+    width: 100%;
+    padding: 15px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+
+}
+
+.numberToMatch {
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+#randomNumber {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: darkgray;
+    color: white; 
+
+}
+
+.wins-losses {
+
+}
+
+#winsTotal {
+
+}
+
+#lossesTotal {
+
+}
+
+#crystals {
+    display: inline;
+    width: 100%;
+}
+
+.crystalImage {
+    width: 25%;
+    margin: 0;
+    padding: 0;
+}
